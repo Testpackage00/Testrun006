@@ -1,0 +1,11 @@
+{
+  "name": "Owewjdmoasldoasmwd023145812454575222",
+  "theme": "syntax",
+  "version": "0.5.0",
+  "description": "สล็อตxo168 แนะนำสล็อตเว็บตรง ไม่มีเอเย่นต์",
+  "repository": "https://github.com/Testpackage00/Testrun006",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
